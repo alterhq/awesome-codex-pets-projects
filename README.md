@@ -23,6 +23,7 @@ A curated index of projects, tools, libraries, galleries, and experiments for Co
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) - Cross-platform desktop pet that watches Codex CLI, Claude Code, Cursor, opencode, and other AI coding agents. Platform: macOS, Windows, Linux. License: unknown.
 - [Petty](https://github.com/LeslieLeung/petty) - Tauri desktop pet player for Codex-compatible pet assets, with built-in pet support and local pet-folder import. Platform: desktop, Tauri. License: unknown.
 - [Petdex Dock](https://github.com/felipetodev/petdex-dock) - Electron desktop Codex pet dock that lives at the edge of the desktop. Platform: desktop, Electron. License: unknown.
+- [Talking Pets](https://github.com/arata-ai-daisuki/talking-pets) - Local Codex pet add-on that monitors assistant speech from local conversation logs and reads it aloud through local TTS. Platform: macOS, Windows, Linux, Node.js, Swift. License: MIT.
 - [Vibebud](https://github.com/Shellishack/vibebud) - Floating AI buddy for Codex, Claude Code, and other agents, with desktop, web, and Android surfaces for companion presence and notifications. Platform: web, macOS, Windows, Linux, Android. License: MIT.
 
 ## SDKs And Integrations
