@@ -42,6 +42,7 @@ A curated index of projects, tools, libraries, galleries, and experiments for Co
 - [OpenPets](https://github.com/alterhq/openpets) - Shared desktop pet status surface for agent progress, review prompts, completion states, failures, and lightweight animations. Platform: macOS. License: MIT.
 - [Codex Watch Companion](https://github.com/b-nnett/codex-apple-watch) - Proof-of-concept Apple Watch companion and Mac bridge for keeping a Codex pet, task state, and voice-driven chat controls visible from the wrist. Platform: watchOS, macOS, Swift, JavaScript. License: unknown.
 - [codex-pet-limit-rings](https://github.com/petergpt/codex-pet-limit-rings) - macOS companion overlay that follows the Codex pet and shows short-window and weekly usage-limit rings without patching Codex. Platform: macOS. License: MIT.
+- [Pet2Dial](https://github.com/zzliu-coder/pet2dial) - Codex skill, round-screen device firmware, and macOS BLE bridge that mirrors the selected Codex pet and task state to M5Stack Dial or LilyGO T-Encoder Pro hardware. Platform: macOS, Codex skill, PlatformIO, BLE hardware. License: MIT.
 - [TokenPet](https://github.com/sugar301/TokenPet) - Windows desktop pet with a local HTTP proxy for token tracking and Codex/Petdex-format pet imports. Platform: Windows, .NET, WPF. License: MIT.
 - [TamaCodex](https://github.com/Alichua/TamaCodex) - In-Codex pet experiment where a companion grows and evolves from local work signals, token usage, care events, and a macOS sidecar. Platform: macOS. License: MIT.
 
