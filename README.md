@@ -25,6 +25,7 @@ A curated index of projects, tools, libraries, galleries, and experiments for Co
 - [Petdex Dock](https://github.com/felipetodev/petdex-dock) - Electron desktop Codex pet dock that lives at the edge of the desktop. Platform: desktop, Electron. License: unknown.
 - [Talking Pets](https://github.com/arata-ai-daisuki/talking-pets) - Local Codex pet add-on that monitors assistant speech from local conversation logs and reads it aloud through local TTS. Platform: macOS, Windows, Linux, Node.js, Swift. License: MIT.
 - [Vibebud](https://github.com/Shellishack/vibebud) - Floating AI buddy for Codex, Claude Code, and other agents, with desktop, web, and Android surfaces for companion presence and notifications. Platform: web, macOS, Windows, Linux, Android. License: MIT.
+- [PlayPets](https://github.com/gaerae/playpets) - Tauri desktop yard where Codex-format pets wander, talk to each other through Claude Code, Codex CLI, Ollama, or an OpenAI-compatible server, and react to coding-agent hooks. Platform: macOS, Windows, Linux. License: MIT.
 
 ## SDKs And Integrations
 
